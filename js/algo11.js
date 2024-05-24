@@ -5,6 +5,7 @@ for (let nombre = 1; nombre <= 10; nombre++) {
 }
 
 //maniére la plus simple de coder des nombres paires
+
 for(let nombre = 2; nombre <= 10; nombre += 2) {
     console.log(nombre);
 }
